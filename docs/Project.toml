@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+HypergraphDatasets = "c83b4d74-e7ca-4499-8513-8f5b36e9c99e"

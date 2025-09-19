@@ -1,0 +1,13 @@
+name = "HypergraphDatasets"
+uuid = "c83b4d74-e7ca-4499-8513-8f5b36e9c99e"
+authors = ["Evan Walter Clark Spotte-Smith", "PhD <espottesmith@gmail.com> and contributors"]
+version = "0.0.1-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
