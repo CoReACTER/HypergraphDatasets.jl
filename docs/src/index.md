@@ -4,7 +4,7 @@ CurrentModule = HypergraphDatasets
 
 # HypergraphDatasets
 
-Documentation for [HypergraphDatasets](https://github.com/espottesmith/HypergraphDatasets.jl).
+Documentation for [HypergraphDatasets](https://github.com/CoReACTER/HypergraphDatasets.jl).
 
 ```@index
 ```

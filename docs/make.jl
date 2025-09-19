@@ -5,10 +5,10 @@ DocMeta.setdocmeta!(HypergraphDatasets, :DocTestSetup, :(using HypergraphDataset
 
 makedocs(;
     modules=[HypergraphDatasets],
-    authors="Evan Walter Clark Spotte-Smith, PhD <espottesmith@gmail.com> and contributors",
+    authors="Evan Walter Clark Spotte-Smith, the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER), and contributors",
     sitename="HypergraphDatasets.jl",
     format=Documenter.HTML(;
-        canonical="https://espottesmith.github.io/HypergraphDatasets.jl",
+        canonical="https://CoReACTER.org/HypergraphDatasets.jl",
         edit_link="main",
         assets=String[],
     ),
@@ -18,6 +18,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/espottesmith/HypergraphDatasets.jl",
+    repo="github.com/CoReACTER/HypergraphDatasets.jl",
     devbranch="main",
 )
