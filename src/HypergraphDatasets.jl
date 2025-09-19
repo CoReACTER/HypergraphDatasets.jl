@@ -1,5 +1,10 @@
 module HypergraphDatasets
 
-# Write your package code here.
+using HyperGraphNeuralNetworks
+import MLDatasets
+
+include("datasets.jl")
+
+export getHyperCora, getHyperCiteSeer
 
 end

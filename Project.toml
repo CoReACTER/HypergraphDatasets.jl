@@ -1,9 +1,13 @@
 name = "HypergraphDatasets"
 uuid = "c83b4d74-e7ca-4499-8513-8f5b36e9c99e"
-authors = ["Evan Walter Clark Spotte-Smith", "PhD <espottesmith@gmail.com> and contributors"]
+authors = ["Evan Spotte-Smith <espottesmith@gmail.com>"]
 version = "0.0.1-DEV"
 
+[deps]
+HyperGraphNeuralNetworks = "1aebdcae-dc77-44ee-b348-f058d326ae63"
+
 [compat]
+HyperGraphNeuralNetworks = "0.0.1"
 julia = "1.10"
 
 [extras]
